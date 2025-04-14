@@ -4,4 +4,6 @@
 <br>
 <p> La API está sacada de aemet, es tan sencillo como poner en google API AEMET y seguir los pasos te mandarán el correo con tu clave API y ya es solo cambiarla en el código.</p>
 <br>
-### No olvides visitar mi [web](https://www.tecxart.es)
+> [!IMPORTANT]
+> No olvides visitar mi [web](https://www.tecxart.es)!! o invitarme a un [café](https://www.paypal.com/donate/?hosted_button_id=DAZRJZVHJKX5S)
+
