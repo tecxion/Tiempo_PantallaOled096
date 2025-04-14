@@ -10,4 +10,6 @@
 > [!IMPORTANT]
 > La siguiente información es importante.
 
+<br>
+
 No olvides visitar mi [Web](https://www.tecxart.es), o invitarme a un [Café](https://www.paypal.com/donate/?hosted_button_id=DAZRJZVHJKX5S) :coffee:
