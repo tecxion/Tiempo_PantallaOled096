@@ -1,4 +1,3 @@
-# Tiempo en pantalla Oled de 0.96"
 ![clima](clima.png)
 <br>
 <p> Hoy os traigo un pequeño código de arduino para crear una pantalla como visualizador del tiempo en tu ciudad</p>
