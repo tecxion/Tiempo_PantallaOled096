@@ -6,4 +6,4 @@
 <br>
 >[!IMPORTANT]
 
-No olvides visitar mi [Web](https://www.tecxart.es), o invitarme a un [Café]([https://pages.github.com/](https://www.paypal.com/donate/?hosted_button_id=DAZRJZVHJKX5S)).
+No olvides visitar mi [Web](https://www.tecxart.es), o invitarme a un [Web](https://www.paypal.com/donate/?hosted_button_id=DAZRJZVHJKX5S)
