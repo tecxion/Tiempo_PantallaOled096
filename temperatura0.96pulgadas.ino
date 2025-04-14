@@ -8,11 +8,10 @@
 #define SCREEN_HEIGHT 64
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 
-const char* ssid = "MIWIFI_2G_HJWj";
-const char* password = "GcbFXuMP";
-const String apiKey = "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0ZWN4YXJ0QGdtYWlsLmNvbSIsImp0aSI6IjJhMzVlYzViLTdjYjAtNDQzYy1iNzk3LWNkOTk0YWY0MTJlNyIsImlzcyI6IkFFTUVUIiwiaWF0IjoxNzQ0NjI4Njk1LCJ1c2VySWQiOiIyYTM1ZWM1Yi03Y2IwLTQ0M2MtYjc5Ny1jZDk5NGFmNDEyZTciLCJyb2xlIjoiIn0.-6gC6-N0DdEzwKESaEULQgbJCkeH8sJI7L64v-7W7C0"; // Ej: "eyJhbGciOiJIUzI1NiJ9..."
+const char* ssid = "TUSSID_DEL_WIFI_AQUI";
+const char* password = "TU_ContraseñaDelWifi";
+const String apiKey = "La_Clave_API_de_AEMET"; // Ej: "eyJhbGciOiJIUzI1NiJ9..."
 const String codigoMunicipio = "26089";
-const String codigoMunicipio2 = "28079";
 
 void setup() {
   Serial.begin(115200);
